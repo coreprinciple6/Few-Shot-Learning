@@ -1,0 +1,5 @@
+Libraries are directly downloaded in the notebook.
+
+TorchVision
+Torchmetrics
+EasyFSL

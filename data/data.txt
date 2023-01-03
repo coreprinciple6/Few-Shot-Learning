@@ -1,0 +1,1 @@
+The Omniglot dataset can be downloaded directly into the notebook from Pytorch
